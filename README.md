@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ppankajs](https://github.com/ppankajs)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **prasannashinde31@gmail.com**
+- 📫 How to reach me **prasannashinde3109@gmail.com**
 
 ---
 
@@ -81,6 +81,6 @@
 ⚾ **Captain of the Baseball Team** in Engineering College
 🎨 Enjoy **Drawing** & Creative Expression
 🏃‍♂️ Dedicated **Athlete** with a Competitive Spirit 
-📧 Let’s chat: [prasannashinde31@gmail.com](prasannashinde31@gmail.com)
+📧 Let’s chat: [prasannashinde3109@gmail.com](prasannashinde31@gmail.com)
 
 > *"Let’s build and automate the future, one pipeline at a time!"*
