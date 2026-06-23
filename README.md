@@ -7,9 +7,9 @@
 <h3 align="center">A passionate DevOps Engineer from India also completed MSc in Cloud Computing and I worked in the Corporate IT Sector </h3>
 
 <p align="center">
-  <a href="https://github.com/ppankajs">
+  <!-- <a href="https://github.com/ppankajs">
     <img src="https://img.shields.io/github/followers/ppankajs?label=Follow&style=social" />
-  </a>
+  </a> -->
   <!-- <a href="https://www.youtube.com/@devopsshack">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a> -->
